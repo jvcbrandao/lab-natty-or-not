@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# E-book:  The Journey of the Turtle and the Enchanted Rescue
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Na elaboração deste conto encantador, contei com a colaboração do ChatGPT, um modelo de linguagem desenvolvido pela OpenAI, para tecer a narrativa. A história desenrola-se em torno de um príncipe corajoso, uma princesa aprisionada e a jornada mágica que empreendem para quebrar uma maldição.
+
+Para a representação visual da história, recorri à ferramenta de criação de imagens do Bing, escolhendo imagens que lembram o estilo encantador encontrado nas obras dos Irmãos Green. Cada imagem corresponde a uma parte específica do conto, capturando a essência de florestas mágicas, reinos submarinos e castelos flutuantes.
+
+Para agregar uma dimensão auditiva à narrativa, utilizei a conhecida ferramenta WellSaid Labs para gerar uma narração envolvente. Ela proporcionou uma experiência imersiva e dinâmica, aprimorando o aspecto narrativo do conto.
+
+Como escolha consciente, a narrativa foi elaborada em inglês devido à disponibilidade apenas dessa língua para a geração de voz. Isso garantiu uma integração harmoniosa entre texto, imagens e voz, criando uma experiência de conto envolvente e coesa.
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Wellsaid Labs
+Chat GPT
+Criador de imagens Microsoft Bing
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pensei em um conteúdo simples que sirva a um propósito claro.  Para o Chat GPT forneci como eu desejava que a história fosse feita e os personagens. Após isso, sabendo da limitação da ferramenta Wellsaid para gerar os áudios, optei por fazer em inglês. E por fim, usei o Criador de imagens da microsoft para ilustrar a história. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Confirmei o que suspeitava! A I.A. já possui uma qualidade incrível, tanto quanto o Chat GPT, quanto o BING quanto a função text-to-speech. Essa última em especial me chamou atenção por ter chegado ao ponto de ser difícil distinguir a voz gerada artificialmente da gerada por uma I.A.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
